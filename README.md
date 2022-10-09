@@ -21,7 +21,7 @@ For example the USART2 driver is a port of the USART1 driver.
 ## Building and Programming
 You can clone the project, rename it and start adding your own code.
 
-To build run
+To build, run
 ```
 cd stm32f4_proj_template
 make
