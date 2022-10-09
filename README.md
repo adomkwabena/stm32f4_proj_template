@@ -23,12 +23,12 @@ You can clone the project, rename it and start adding your own code.
 
 To build run
 ```
-cd stm32f4_project_template
+cd stm32f4_proj_template
 make
 ```
 
 To program the STM32F4 discovery board, run 
 ```
-cd stm32f4_project_template
+cd stm32f4_proj_template
 make burn
 ```
