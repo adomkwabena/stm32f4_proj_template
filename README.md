@@ -3,9 +3,11 @@ This is a project template for the STM32F4 discovery board.
 Instead of building a project from scratch, you can clone this project
 and use it as a starting point. 
 
-## Support
+## Supported Architectures
 There is currently support for only the STM32F407VGT06 microcontroller, but
 porting to other STM32F4 devices should be a breeze.
+
+Porting to other microcontroller families is not supported.
 
 ## Features
 The project template supports these basic features
