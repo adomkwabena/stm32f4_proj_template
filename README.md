@@ -1,5 +1,6 @@
 # STM32F4 Project Template
-This is a project template for the STM32F4 discovery board. 
+This is a project template for the STM32F4 family of MCUs from ST. It was 
+tested on the STM32F4 discovery board. 
 Instead of building a project from scratch, you can clone this project
 and use it as a starting point. 
 
